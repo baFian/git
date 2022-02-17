@@ -1,2 +1,4 @@
-console.log("Hola mundo")
-return true
+console.log("Hola mundo perros")
+if(true) {
+    return "Hello"
+} 
